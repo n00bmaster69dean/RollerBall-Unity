@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - player
+  - p1
+  - p2
+  - player 2
+  - plat
+  - wall
+  - trigger1
+  - trigger2
+  - speedup
+  - speeddown
+  - magup
+  - sizeup
+  - sizedown
+  - magdown
+  - splat
+  - blow
+  - Fire
+  - pow
+  - high
+  - gameover
+  - BigYellowSphere
+  - next
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
